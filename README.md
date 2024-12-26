@@ -7,7 +7,7 @@
 ```csharp
 piodispaia@github
 -------------------------
-OS: fedora
+OS: void linux
 Shell: bash 5.2.37 
 Pronouns: he/him
 Location: brasil, PE
