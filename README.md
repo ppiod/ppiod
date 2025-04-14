@@ -2,7 +2,7 @@
 > neofetch
 ```
 
-<img align="left" src="https://i.pinimg.com/736x/f3/01/cb/f301cbd2a7681536675e04d3a211462f.jpg" alt="Hut ao" width="290" /> 
+<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/0/02/Void_Linux_logo.svg" alt="Hut ao" width="290" /> 
 
 ```csharp
 ppiod@github
