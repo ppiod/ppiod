@@ -6,7 +6,7 @@
   bio: "clean code, clean systems, cat hair everywhere",
 
   system_info: %{
-    os: :nixos,
+    os: :artix,
     shell: :bash,
     editor: [:helix, :neovim]
   },
