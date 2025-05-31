@@ -12,7 +12,7 @@
   },
 
   tech_stack: [
-    :go,
+    :c++,
     :typescript,
     :javascript,
     :elixir,
